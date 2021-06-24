@@ -1,10 +1,12 @@
 <h1> Como executar <h1>
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+ Depois de baixar a pasta do GitHub faça o segunte:
+  *Dentro da pasta "CodParaTodxs" execute o terminal
+    #instale o express "npm i express"
+    #depois o nodemon "npm i nodemon -d"
+  *execute no terminal "npm run dev" para iniciar o servidor local
+  em seguida digite no navegador "http://localhost:3000/"
+
+  
 
 
 
