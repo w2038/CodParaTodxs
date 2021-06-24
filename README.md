@@ -1,13 +1,16 @@
 <h1> Como executar <h1>
- Depois de baixar a pasta do GitHub faça o segunte:
-  *Dentro da pasta "CodParaTodxs" execute o terminal
-    #instale o express "npm i express"
-    #depois o nodemon "npm i nodemon -d"
-  *execute no terminal "npm run dev" para iniciar o servidor local
-  em seguida digite no navegador "http://localhost:3000/"
+ 
+ 
+
+ 
 
   
-
+<p> Depois de baixar a pasta do GitHub faça o segunte:<p>
+ <p> *Dentro da pasta "CodParaTodxs" execute o terminal <p>
+ <p> #instale o express "npm i express"<p>
+ <p> #depois o nodemon "npm i nodemon -d"<p>
+ <p>  *execute no terminal "npm run dev" para iniciar o servidor local<p>
+ <p>  em seguida digite no navegador "http://localhost:3000/"<p>
 
 
 <br>
